@@ -1,0 +1,29 @@
+.S {
+  height: 10px;
+  width: 10px;
+  background-color: green;
+  border: solid 1px;
+  float: left;
+}
+
+.A {
+  height: 10px;
+  width: 10px;
+  background-color: red;
+  border: solid 1px;
+  float: left;
+}
+
+
+.e {
+  height: 10px;
+  width: 10px;
+  background-color: #C0C0C0;
+  border: solid 1px;
+  float: left;
+}
+
+.r {
+  display: block
+}
+

@@ -1,11 +1,11 @@
-body > div {
+.tower {
   height: 100px;
   width: 100px;
   float: left;
   border: solid 1px;
 }
 
-#three {
+#d3 {
   height: 31px;
   width: 100px;
   background-color:red;
@@ -13,7 +13,7 @@ body > div {
   text-align: center ;
 }
 
-#two {
+#d2 {
   height: 31px;
   width: 75px;
   background-color:blue;
@@ -21,7 +21,7 @@ body > div {
   text-align: center ;
 }
 
-#one {
+#d1 {
   height: 31px;
   width: 50px;
   background-color:green;
