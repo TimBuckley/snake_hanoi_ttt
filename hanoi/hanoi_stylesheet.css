@@ -1,0 +1,30 @@
+body > div {
+  height: 100px;
+  width: 100px;
+  float: left;
+  border: solid 1px;
+}
+
+#three {
+  height: 31px;
+  width: 100px;
+  background-color:red;
+  border: solid 1px;
+  text-align: center ;
+}
+
+#two {
+  height: 31px;
+  width: 75px;
+  background-color:blue;
+  border: solid 1px;
+  text-align: center ;
+}
+
+#one {
+  height: 31px;
+  width: 50px;
+  background-color:green;
+  border: solid 1px;
+  text-align: center ;
+}

@@ -1,0 +1,20 @@
+div > div {
+  float: left;
+  width: 100px;
+  height: 100px;
+  border: solid 1px;
+}
+
+body > div {
+  float: left;
+  width: 100px;
+  display: block;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
